@@ -1,0 +1,57 @@
+catalog = [
+    {
+        "_id":"",
+        "price": 5000,
+        "stock": 4,
+        "title": "road",
+        "image": "roadblackbike.jpg",
+        "discount": 5,
+        "category": "roadbike",
+    },
+    {
+        "_id":"",
+        "price": 3500,
+        "stock": 16,
+        "title": "mtb",
+        "image": "bluebike.jpg",
+        "discount": 5,
+        "category": "mountainbike",
+    },
+    {
+        "_id":"",
+        "price": 1200,
+        "stock": 30,
+        "title": "mtb",
+        "image": "whitebike.jpg",
+        "discount": 5,
+        "category": "mountainbike",
+    },
+    {
+        "_id":"",
+        "price": 1400,
+        "stock": 25,
+        "title": "road",
+        "image": "roadyellowbike.jpg",
+        "discount": 5,
+        "category": "roadbike",
+    },
+    {
+        "_id":"",
+        "price": 9000,
+        "stock": 2,
+        "title": "mtb",
+        "image": "bestbike.jpg",
+        "discount": 5,
+        "category": "mountainbike",
+    },
+    {
+        "_id":"",
+        "price": 4500,
+        "stock": 3,
+        "title": "mtb",
+        "image": "redbike.jpg",
+        "discount": 5,
+        "category": "mountainbike",
+    }
+]
+
